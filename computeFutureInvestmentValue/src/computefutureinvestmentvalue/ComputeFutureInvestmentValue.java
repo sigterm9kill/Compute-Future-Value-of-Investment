@@ -1,8 +1,6 @@
 /*
  * Sean O'Brien
- * Exercise 6.7
- * Comput the future investment value
- * CSC206, Mr Osborne
+ * Compute the future investment value
  */
 
 package computefutureinvestmentvalue;
@@ -16,6 +14,7 @@ import java.util.Scanner;
  * (e.g., 9%) and prints a table that displays future value for the years 
  * from 1 to 30.
  */
+
 public class ComputeFutureInvestmentValue {
 
     public static void main(String[] args) {
